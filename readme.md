@@ -2,9 +2,9 @@
   <img src="https://img.shields.io/badge/👋-Hello!-brightgreen" alt="hello" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Noor Mustafa Rajpar</h1>
+<h1 align="center">👋 Hi, I’m Pranjal Mandhan</h1>
 <p align="center">
-  <strong>A passionate Data Scientist & Java Full Stack Developer</strong>
+  <strong>A passionate Data Analyst & Python Developer</strong>
 </p>
 
 <p align="center">
