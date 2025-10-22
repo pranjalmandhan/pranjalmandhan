@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/👋-Hello!-brightgreen" alt="hello" />
+  <img src="https://img.shields.io/badge/👋-Hey%20there!-brightgreen" alt="hello" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Pranjal Mandhan</h1>
+<h1 align="center">Hey there! 👋 <br> This is <span style="color:#00BFFF;">Pranjal Mandhan</span></h1>
 <p align="center">
-  <strong>A Passionate Data Analyst & Python Developer</strong>
+  <strong>A passionate Data Analyst & Python Developer</strong>
 </p>
 
 <p align="center">
@@ -22,75 +22,62 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/pranjalmandhan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&theme=github_dark" alt="Top languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pranjalmandhan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalmandhan&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalmandhan&theme=react-dark" alt="GitHub Activity Graph" />
+  <a href="https://github.com/pranjalmandhan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&theme=github_dark" alt="Top languages" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **AI & Data Analysis projects**
-- 🌱 Learning **Machine Learning**, **Flask**, and **MongoDB**
-- 👯 Looking to collaborate on **Python & AI-based projects**
-- 💬 Ask me about **Python**, **Data Analytics**, **Machine Learning**, and **Databases**
-- 📫 Reach me at: [your_email@example.com](mailto:your_email@example.com)
+- 🔭 I’m currently working on **AI-based Projects & Data Analysis**
+- 🌱 Learning advanced ML, Deep Learning & GNNs
+- 👯 Open to collaborate on **AI, Python, and Java Full Stack** projects
+- 💬 Ask me about **Python, Java, Databases, and Machine Learning**
+- 📫 Reach me at: [pranjalmandhan@example.com](mailto:pranjalmandhan@example.com)
 
 ---
 
 ## 🛠️ Skills & Tools
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-  
-  <!-- Data / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
-  
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,spring,mysql,sqlite,postgresql,mongodb,git,github,vscode" />
 </p>
 
 ---
 
 ## 🔭 Featured Projects
-- 🧠 **[AI Mental Health Chatbot 2.0](https://github.com/pranjalmandhan/Mental-Health-Chatbot-2.0)** — Emotion-based mental health chatbot using NLP & Voice
-- 🔒 **[Steganography Chat App](https://github.com/pranjalmandhan/Secure-Chat-App)** — Secure image-based message encryption chat system
-- 📊 **[Student Performance Prediction](https://github.com/pranjalmandhan/Student-Performance-ML)** — ML model predicting student success using academic data
+- **[Mental Health Chatbot 2.0](https://github.com/pranjalmandhan/mental-health-chatbot)** — AI-powered chatbot for Gen Z with emotion detection & voice support  
+- **[AI Blockchain Fraud Detection](https://github.com/pranjalmandhan/blockchain-fraud-detection)** — Graph Neural Network model for detecting fraud in blockchain transactions  
+- **[Steganography Chat App](https://github.com/pranjalmandhan/steganography-chat-app)** — Secure chat app using image steganography and encryption
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Activity Graph
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalmandhan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/pranjalmandhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
-  <a href="mailto:your_email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+  <a href="https://twitter.com/pranjalmandhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
+  <a href="mailto:pranjalmandhan@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Built with ❤️ and Python 🐍 ✨</p>
+> Built with ❤️, ☕, and lots of Python 🐍
