@@ -34,7 +34,7 @@
 💡 Passionate about building data-driven insights and automation tools<br>
 ⚡ I enjoy solving analytical problems using Python and statistics</b><br>
 ☕ Fun fact: I can debug anything after a good cup of coffee!<br>
-💬 Ask me about: Python, Data Analytics, SQL, Machine Learning</b><br>
+
   </i>
 </p>
 
@@ -52,14 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
 </p>
 
----
-
-### 📊 Data Analytics & ML  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" />
-</p>
 
 ---
 
@@ -123,7 +115,7 @@
 1. 🎯 Contributed to AI-based Data Projects
 2. 🐍 Enhanced Python automation scripts
 3. 🧠 Learning new frameworks in Machine Learning
-4. 🌐 Working on a Flask-based dashboard
+
 <!--END_SECTION:activity-->
 
 ---
