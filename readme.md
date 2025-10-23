@@ -27,12 +27,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <br><br>
-  <i>
-    🚀 Exploring AI, Machine Learning & Data Science<br>
-    🌱 Currently learning: <b>Deep Learning, Data Visualization & GNNs</b><br>
-    💡 Passionate about turning data into meaningful insights<br>
-    ⚡ Fun fact: <b>My debugging skills power up with coffee ☕</b><br>
-    💬 Ask me about: <b>Python, Data Analytics, ML, Databases, Flask</b><br>
+  <i>About Me
+
+🐍 Exploring the world of Python Development & Data Analytics<br>
+📊 Currently enhancing my skills in Pandas, NumPy, and Machine Learning</b><br>
+💡 Passionate about building data-driven insights and automation tools<br>
+⚡ I enjoy solving analytical problems using Python and statistics</b><br>
+☕ Fun fact: I can debug anything after a good cup of coffee!<br>
+💬 Ask me about: Python, Data Analytics, SQL, Machine Learning</b><br>
   </i>
 </p>
 
