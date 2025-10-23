@@ -40,30 +40,44 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack  
 
-### 🧠 **Programming & Data**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,git,github,vscode" />
-</div>
+### 🐍 Programming  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+</p>
 
-### 📊 **Data Science & ML**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter" />
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Matplotlib_logo.svg" width="40" height="40"/>
-</div>
+---
 
-### 🌐 **Web Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js,react,bootstrap" />
-</div>
+### 📊 Data Analytics & ML  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" />
+</p>
 
-### 🗄️ **Databases**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql" />
-</div>
+---
+
+### 🌐 Web Development  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+</p>
+
+---
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" />
+</p>
+
 
 ### ⚙️ **Tools & Platforms**
 <div align="left">
