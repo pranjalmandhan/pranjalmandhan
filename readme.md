@@ -99,16 +99,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=pranjalmandhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
