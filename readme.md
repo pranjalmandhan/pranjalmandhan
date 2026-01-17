@@ -1,3 +1,32 @@
+# Hi, I'm Pranjal Mandhan 👋
+**Data Analyst | Python Developer | SQL Specialist**
+
+I specialize in building automated data systems and analytical dashboards that turn raw data into actionable business intelligence.
+
+---
+
+## 🛠️ Featured Projects
+
+### 🪙 [Automated Crypto ETL Pipeline](https://github.com/pranjalmandhan/crypto-market-pipeline)
+**Tech:** Python, Pandas, GitHub Actions, REST APIs
+* Engineered a modular ETL system that automates real-time market data ingestion and archival.
+* Implemented 24/7 cloud automation using GitHub Actions for continuous data persistence.
+
+### 📊 [AI Sentiment Analysis Dashboard](https://github.com/pranjalmandhan/ai-sentiment-dashboard)
+**Tech:** Python, Streamlit, NLP (VADER)
+* Built an interactive dashboard that translates unstructured social media text into visual sentiment trends.
+* Integrated real-time Natural Language Processing to assist in brand reputation management.
+
+### 🛒 [E-commerce SQL Business Audit](https://github.com/pranjalmandhan/ecommerce-SQL-audit)
+**Tech:** SQL (PostgreSQL/MySQL)
+* Developed an end-to-end data cleaning and auditing pipeline to ensure 100% data integrity for financial reporting.
+* Transformed messy transaction logs into high-level business KPIs using advanced aggregations.
+
+---
+
+## 🔧 Technical Toolbox
+* **Languages:** Python (Pandas, Numpy, Requests), SQL
+* **Tools:** GitHub Actions (CI/CD), Streamlit, Git, ETL Design
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Mandhan!;" />
 </h1>
