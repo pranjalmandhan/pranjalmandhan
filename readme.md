@@ -6,9 +6,6 @@
 </h3>
 
 # 💫 About Me
-<p align="left">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4OHR6Mnd6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" align="right">
-</p>
 
 - 👨‍💻 I like contributing to open source and sharing what I learn.
 - 📊 I'm a Data Analyst focused on automation and Python engineering.
