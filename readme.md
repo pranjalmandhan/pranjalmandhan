@@ -1,180 +1,39 @@
 # Hi, I'm Pranjal Mandhan 👋
-**Data Analyst | Python Developer | SQL Specialist**
+**Python Developer | Data Analyst | Automation Specialist**
 
-I specialize in building automated data systems and analytical dashboards that turn raw data into actionable business intelligence.
+I specialize in building modular Python applications, automated ETL pipelines, and data-driven business insights.
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Projects
 
 ### 🪙 [Automated Crypto ETL Pipeline](https://github.com/pranjalmandhan/crypto-market-pipeline)
-**Tech:** Python, Pandas, GitHub Actions, REST APIs
-* Engineered a modular ETL system that automates real-time market data ingestion and archival.
-* Implemented 24/7 cloud automation using GitHub Actions for continuous data persistence.
+**Tech Stack:** Python, Pandas, GitHub Actions, REST APIs
+* **Engineering:** Developed a modular ETL system that extracts real-time crypto prices with robust error handling.
+* **Automation:** Implemented 24/7 cloud archival via GitHub Actions, growing the dataset by 24 records daily.
 
 ### 📊 [AI Sentiment Analysis Dashboard](https://github.com/pranjalmandhan/ai-sentiment-dashboard)
-**Tech:** Python, Streamlit, NLP (VADER)
-* Built an interactive dashboard that translates unstructured social media text into visual sentiment trends.
-* Integrated real-time Natural Language Processing to assist in brand reputation management.
+**Tech Stack:** Python, Streamlit, NLP (VADER)
+* **Intelligence:** Built a real-time dashboard to translate unstructured text into actionable sentiment trends.
+* **Impact:** Provides immediate visual analytics for brand reputation and social media monitoring.
 
 ### 🛒 [E-commerce SQL Business Audit](https://github.com/pranjalmandhan/ecommerce-SQL-audit)
-**Tech:** SQL (PostgreSQL/MySQL)
-* Developed an end-to-end data cleaning and auditing pipeline to ensure 100% data integrity for financial reporting.
-* Transformed messy transaction logs into high-level business KPIs using advanced aggregations.
+**Tech Stack:** SQL (MySQL/PostgreSQL)
+* **Integrity:** Created a multi-stage audit pipeline to clean messy transaction logs and ensure 100% data accuracy.
+* **Analytics:** Transformed raw database tables into high-level business KPIs and revenue reports.
 
 ---
 
 ## 🔧 Technical Toolbox
-* **Languages:** Python (Pandas, Numpy, Requests), SQL
-* **Tools:** GitHub Actions (CI/CD), Streamlit, Git, ETL Design
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Mandhan!;" />
-</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   Python Developer Data Analyst
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=pranjalmandhan&style=flat-square&color=blue)
-  ![GitHub Followers](https://img.shields.io/github/followers/pranjalmandhan?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/pranjalmandhan?style=social)
-
-</div>
+* **Languages:** Python (Pandas, NumPy, Requests), SQL.
+* **Automation:** GitHub Actions, Cron-scheduling, ETL Design.
+* **Visualization:** Streamlit, Tableau, Power BI.
 
 ---
 
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <br><br>
-  <i>About Me
-
-🐍 Exploring the world of Python Development & Data Analytics<br>
-📊 Currently enhancing my skills in Pandas, NumPy, and Machine Learning</b><br>
-💡 Passionate about building data-driven insights and automation tools<br>
-⚡ I enjoy solving analytical problems using Python and statistics</b><br>
-☕ Fun fact: I can debug anything after a good cup of coffee!<br>
-
-  </i>
-</p>
+## 📈 GitHub Stats
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&theme=radical)
 
 ---
-
-## 🧰 Tech Stack  
-
-### 🐍 Programming  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
-</p>
-
-
----
-
-### 🌐 Web Development  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-</p>
-
----
-
-### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" />
-</p>
-
-
-### ⚙️ **Tools & Platforms**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postman,docker,aws,linux" />
-</div>
-
----
-
-## 📊 GitHub Status
-
-<div align="center">
-  
-  <a href="https://github.com/pranjalmandhan">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&langs_count=8&theme=radical" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalmandhan&theme=radical&hide_border=false" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalmandhan&theme=react-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎯 Contributed to AI-based Data Projects
-2. 🐍 Enhanced Python automation scripts
-3. 🧠 Learning new frameworks in Machine Learning
-
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalmandhan&theme=github-compact)
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjalmandhan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalmandhan@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalmandhan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-</div>
-
----
-
-## 💻 Coding Quote
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ❤️ Made with passion & precision by <b>Pranjal Mandhan</b>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-  
-  ![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-1EAEDB.svg)
-
-</div>
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
