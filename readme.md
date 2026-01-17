@@ -1,6 +1,5 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Mandhan!;" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Pranjal%20Mandhan&fontSize=70&animation=fadeIn" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
