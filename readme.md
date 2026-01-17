@@ -1,14 +1,18 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Pranjal%20Mandhan&fontSize=70&animation=fadeIn" />
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 # 💫 About Me
 <p align="left">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4OHR6Mnd6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" align="right">
 </p>
 
-Hi, I'm **Pranjal Mandhan**! 👋
-
 - 👨‍💻 I like contributing to open source and sharing what I learn.
 - 📊 I'm a Data Analyst focused on automation and Python engineering.
-- ⚙️ I'm currently learning cloud integration and advanced ETL patterns.
-- 📍 Based in Pakistan.
+
 
 ---
 
