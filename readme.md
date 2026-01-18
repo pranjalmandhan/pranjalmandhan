@@ -65,12 +65,37 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+#### 🪙 [Automated Crypto ETL Pipeline](https://github.com/pranjalmandhan/crypto-market-pipeline)
+* **Modular Engineering:** Built with separate fetcher and processor logic for high maintainability.
+* **Cloud Automation:** Scheduled via GitHub Actions to run every hour with automated commits.
+
+#### 📊 [AI Sentiment Analysis Dashboard](https://github.com/pranjalmandhan/ai-sentiment-dashboard)
+* **Intelligence:** Translates raw social media text into visual sentiment metrics using NLP.
+* **Visualization:** Deployed as an interactive web-app for real-time trend monitoring.
+
+---
+
 ### 🎯 Professional Experience & Contributions
 - ✅ **Automated 24/7 Data Pipelines:** Engineered self-running ETL systems with 0% downtime using GitHub Actions.
 - ✅ **Advanced Data Cleaning:** Built SQL-based audit trails to maintain 100% data integrity for business reporting.
 - ✅ **AI Sentiment Modeling:** Developed real-time NLP tools to translate human emotions into actionable data metrics.
 - ✅ **Modular Python Architecture:** Designed reusable, object-oriented scripts for scalable data engineering.
 
+---
+
+### 📈 My GitHub History
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
+</p>
 ---
 ## 📊 GitHub Status
 
