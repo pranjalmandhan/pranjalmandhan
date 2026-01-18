@@ -11,13 +11,12 @@
 
 
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🐍 Exploring the world of Python Development & Data Analytics<br>
-📊 Currently enhancing my skills in Pandas, NumPy, and Machine Learning</b><br>
-💡 Passionate about building data-driven insights and automation tools<br>
-⚡ I enjoy solving analytical problems using Python and statistics</b><br>
-☕ Fun fact: I can debug anything after a good cup of coffee!<br>
+- 👨‍💻 Exploring the world of **Python Development & Data Analytics**.
+- 📊 Currently enhancing my skills in **Pandas, NumPy, and Machine Learning**.
+- 💡 Passionate about building **data-driven insights** and **automation tools**.
+- ⚡ I enjoy solving analytical problems using **Python and statistics**.
 
   </i>
 </p>
