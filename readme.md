@@ -1,6 +1,6 @@
 <div align="center">
-  <img src=""C:\Users\Hp\Pictures\github.png"" width="150" style="border-radius: 50%;" alt="Profile Picture" />
-  <h1>Hi, I'm [Pranjal Mandhan]! 👋</h1>
+  <img src="github.png" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+  <h1> Hi👋, I'm Pranjal Mandhan </h1>
 </div>
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Mandhan!;" />
