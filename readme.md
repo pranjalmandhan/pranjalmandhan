@@ -66,7 +66,6 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 #### 🪙 [Automated Crypto ETL Pipeline](https://github.com/pranjalmandhan/crypto-market-pipeline)
@@ -79,23 +78,12 @@
 
 ---
 
-### 🎯 Professional Experience & Contributions
-- ✅ **Automated 24/7 Data Pipelines:** Engineered self-running ETL systems with 0% downtime using GitHub Actions.
-- ✅ **Advanced Data Cleaning:** Built SQL-based audit trails to maintain 100% data integrity for business reporting.
-- ✅ **AI Sentiment Modeling:** Developed real-time NLP tools to translate human emotions into actionable data metrics.
-- ✅ **Modular Python Architecture:** Designed reusable, object-oriented scripts for scalable data engineering.
+### 🎯 Professional Experience & Mastered Skills
+- ⚙️ **End-to-End ETL Pipeline Engineering:** Developed a fully automated system for real-time data extraction from REST APIs, ensuring 100% data persistence without manual oversight.
+- ☁️ **Cloud Orchestration & Automation:** Mastered **GitHub Actions** and cron-scheduling to manage cloud-based execution and automated version control updates.
+- 🧼 **Data Integrity & Business Auditing:** Engineered complex SQL scripts to perform multi-stage data cleaning and business audits, ensuring accuracy in high-volume transaction logs.
+- 🏗️ **Modular Software Architecture:** Applied professional software principles by separating data fetching, processing, and orchestration into independent Python modules.
 
----
-
-### 📈 My GitHub History
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
-</p>
 ---
 ## 📊 GitHub Status
 
