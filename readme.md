@@ -110,13 +110,6 @@
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎯 Contributed to AI-based Data Projects
-2. 🐍 Enhanced Python automation scripts
-3. 🧠 Learning new frameworks in Machine Learning
-
 <!--END_SECTION:activity-->
 
 ---
