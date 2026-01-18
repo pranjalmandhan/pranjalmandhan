@@ -95,7 +95,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
 </p>
   <br><br>
-  
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalmandhan&theme=radical&hide_border=false" />
   
   <br><br>
