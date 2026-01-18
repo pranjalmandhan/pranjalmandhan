@@ -94,15 +94,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
 </p>
-## 📊 GitHub Status
-
-<div align="center">
-  
-  <a href="https://github.com/pranjalmandhan">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&langs_count=8&theme=radical" />
-  </a>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
 </p>
