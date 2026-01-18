@@ -1,152 +1,71 @@
+# 💫 About Me
+<p align="left">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4OHR6Mnd6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" align="right">
+</p>
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Mandhan!;" />
-</h1>
+Hi, I'm **Pranjal Mandhan**! 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   Python Developer Data Analyst
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=pranjalmandhan&style=flat-square&color=blue)
-  ![GitHub Followers](https://img.shields.io/github/followers/pranjalmandhan?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/pranjalmandhan?style=social)
-
-</div>
+- 👨‍💻 I like contributing to open source and sharing what I learn.
+- 📊 I'm a Data Analyst focused on automation and Python engineering.
+- ⚙️ I'm currently learning cloud integration and advanced ETL patterns.
+- 📍 Based in Pakistan.
 
 ---
 
-## 👨‍💻 About Me
+### 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
+
+---
+
+### 💻 Tech Stack:
+
+**Languages**
+<p align="left"> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🪙 [Automated Crypto ETL Pipeline](https://github.com/pranjalmandhan/crypto-market-pipeline)
+* **Engineering:** Modular architecture separating extraction, transformation, and loading.
+* **Automation:** Triggered hourly via GitHub Actions with automated Git commits.
+
+#### 📊 [AI Sentiment Analysis Dashboard](https://github.com/pranjalmandhan/ai-sentiment-dashboard)
+* **Intelligence:** Uses VADER sentiment analysis to quantify social media emotions.
+* **Visualization:** Deployed as an interactive web-app for real-time trend tracking.
+
+---
+
+### 📈 My GitHub History
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <br><br>
-  <i>About Me
-
-🐍 Exploring the world of Python Development & Data Analytics<br>
-📊 Currently enhancing my skills in Pandas, NumPy, and Machine Learning</b><br>
-💡 Passionate about building data-driven insights and automation tools<br>
-⚡ I enjoy solving analytical problems using Python and statistics</b><br>
-☕ Fun fact: I can debug anything after a good cup of coffee!<br>
-
-  </i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
 </p>
-
----
-
-## 🧰 Tech Stack  
-
-### 🐍 Programming  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
-</p>
-
-
----
-
-### 🌐 Web Development  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-</p>
-
----
-
-### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" />
-</p>
-
-
-### ⚙️ **Tools & Platforms**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postman,docker,aws,linux" />
-</div>
-
----
-
-## 📊 GitHub Status
-
-<div align="center">
-  
-  <a href="https://github.com/pranjalmandhan">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalmandhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalmandhan&layout=compact&langs_count=8&theme=radical" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalmandhan&theme=radical&hide_border=false" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalmandhan&theme=react-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎯 Contributed to AI-based Data Projects
-2. 🐍 Enhanced Python automation scripts
-3. 🧠 Learning new frameworks in Machine Learning
-
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalmandhan&theme=github-compact)
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjalmandhan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalmandhan@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalmandhan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-</div>
-
----
-
-## 💻 Coding Quote
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ❤️ Made with passion & precision by <b>Pranjal Mandhan</b>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-  
-  ![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-1EAEDB.svg)
-
-</div>
