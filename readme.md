@@ -65,6 +65,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
+### 🎯 Professional Experience & Contributions
+- ✅ **Automated 24/7 Data Pipelines:** Engineered self-running ETL systems with 0% downtime using GitHub Actions.
+- ✅ **Advanced Data Cleaning:** Built SQL-based audit trails to maintain 100% data integrity for business reporting.
+- ✅ **AI Sentiment Modeling:** Developed real-time NLP tools to translate human emotions into actionable data metrics.
+- ✅ **Modular Python Architecture:** Designed reusable, object-oriented scripts for scalable data engineering.
+
 ---
 ## 📊 GitHub Status
 
