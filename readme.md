@@ -12,7 +12,6 @@
 
 
 ## 👨‍💻 About Me
-------
 
 - 👨‍💻 Exploring the world of **Python Development & Data Analytics**.
 - 📊 Currently enhancing my skills in **Pandas, NumPy, and Machine Learning**.
