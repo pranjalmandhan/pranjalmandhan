@@ -1,10 +1,9 @@
 <div align="center">
   <img src="github.png" width="150" style="border-radius: 50%;" alt="Profile Picture" />
-  <h1> Hi👋, I'm Pranjal Mandhan </h1>
-</div>
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Mandhan!;" />
 </h1>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
