@@ -9,16 +9,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=pranjalmandhan&style=flat-square&color=blue)
-  ![GitHub Followers](https://img.shields.io/github/followers/pranjalmandhan?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/pranjalmandhan?style=social)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <p align="center">
